@@ -26,7 +26,7 @@
                         <v-img
                                 alt="Local Website Development Design"
                                 contain
-                                src="/img/restaurant/pos-dashboard-business.jpg"
+                                src="@/assets/pos-dashboard-business.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -45,7 +45,7 @@
                         <v-img
                                 alt="digital strategies"
                                 contain
-                                src="/img/restaurant/restaurant-dashboard.jpg"
+                                src="@/assets/restaurant-dashboard.jpg"
                         ></v-img>
                         <v-card-title class="justify-center">Sales Reports & Data
                         </v-card-title>
@@ -61,7 +61,7 @@
                         <v-img
                                 alt="Digital Marketing Tools"
                                 contain
-                                src="/img/restaurant/reports-pos-best.jpg"
+                                src="@/assets/reports-pos-best.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
