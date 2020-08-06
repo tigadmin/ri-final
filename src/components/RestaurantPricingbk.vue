@@ -55,7 +55,7 @@
 
 <script>
   export default {
-    name: "RestaurantPricing",
+    name: "RestaurantPricingbk",
     data() {
       return {
         length: 30,

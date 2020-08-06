@@ -26,7 +26,7 @@
                     <img
                             alt="Restaurant POS Review"
                             height="20"
-                            src="/img/img/top-local-marketing.png"
+                            src="@/assets/top-local-marketing.png"
                     />
                 </div>
 

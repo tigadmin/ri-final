@@ -30,11 +30,11 @@
                                 alt="Website POS"
                                 contain
                                 max-height="120"
-                                src="/img/restaurant/brioso-logo.png"
+                                src="@/assets/brioso-logo.png"
                         >
                         </v-img>
                         </div>
-                        <router-link to="/brochure">
+                        <router-link to="/ brochure">
                             <v-btn
                                     @click.stop="dialog = !dialog"
                                     aria-label="Website Pricing"

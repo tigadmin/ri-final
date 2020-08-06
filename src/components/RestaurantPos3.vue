@@ -26,7 +26,7 @@
                         <v-img
                                 alt="Restaurant Mobile Apps"
                                 contain
-                                src="img/img/yumapos-restaurant2.jpg"
+                                src="@/assets/yumapos-restaurant2.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -45,7 +45,7 @@
                         <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="restaurant/yumapos-restaurant-terminal.jpg"
+                                src="@/assets/yumapos-restaurant-terminal.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -65,7 +65,7 @@
                         <v-img
                                 alt="Restaurant Marketing"
                                 contain
-                                src="/img/img/mobile-apps-restaurant.jpg"
+                                src="@/assets/mobile-apps-restaurant.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center">Marketing Tools</v-card-title>

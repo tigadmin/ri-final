@@ -26,7 +26,7 @@
                             <v-img
                                     alt="Restaurant Digital Marketing Solutions"
                                     contain
-                                    src="/img/restaurant/search-engine-marketing.jpg"
+                                    src="@/assets/search-engine-marketing.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Search Marketing</v-card-title>
@@ -43,7 +43,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/facebook-restaurant-marketing.jpg"
+                                    src="@/assets/facebook-restaurant-marketing.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -62,7 +62,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/retargeting.jpg"
+                                    src="@/assets/retargeting.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Re-Targeting</v-card-title>
@@ -101,7 +101,7 @@
                             <img
                                     alt="Restaurant POS Review"
                                     height="600px"
-                                    src="img/restaurant/info-graphic-icons.png"
+                                    src="@/assets/info-graphic-icons.png"
                             />
                         </div>
                     </v-layout>

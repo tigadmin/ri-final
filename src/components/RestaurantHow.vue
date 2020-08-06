@@ -23,7 +23,7 @@
                             <v-img
                                     alt="Restaurant Search Engine Marketing Mobile Apps"
                                     contain
-                                    src="/img/restaurant/create-account.jpg"
+                                    src="@/assets/create-account.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Setup Apps</v-card-title>
@@ -39,7 +39,7 @@
                             <v-img
                                     alt="Restaurant Direct Mailers Mail"
                                     contain
-                                    src="/img/restaurant/restaurant-app3.jpg"
+                                    src="@/assets/restaurant-app3.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Launch Campaigns</v-card-title>
@@ -58,7 +58,7 @@
                             <v-img
                                     alt="Restaurant Customer Places Order"
                                     contain
-                                    src="/img/restaurant/restaurant-chef-order.jpg"
+                                    src="@/assets/restaurant-chef-order.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Prepare Order</v-card-title>
@@ -74,7 +74,7 @@
                             <v-img
                                     alt="Restaurant Customer Places Order"
                                     contain
-                                    src="/img/restaurant/order-complete.jpeg"
+                                    src="@/assets/order-complete.jpeg"
                             >
                             </v-img>
                             <v-card-title class="headline">Mark Complete</v-card-title>
@@ -115,7 +115,7 @@
     mounted() {
       window.scrollTo(0, 0);
     },
-    name: "RestaurantMarketing.vue"
+    name: "RestaurantHow.vue"
   };
 </script>
 

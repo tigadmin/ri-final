@@ -19,7 +19,7 @@
                                 aspect-ratio="1"
                                 contain
                                 max-height="260px"
-                                src="/img/img/consultation1.svg"
+                                src="@/assets/consultation1.svg"
                         ></v-img>
                     </v-flex>
                     <v-flex md6 pb-5 xs12>
@@ -43,7 +43,7 @@
                                 aspect-ratio="1"
                                 contain
                                 max-height="260px"
-                                src="/img/img/consultation.svg"
+                                src="@/assets/consultation.svg"
                         ></v-img>
                     </v-flex>
                     <v-flex md6 pb-5 xs12>
@@ -65,7 +65,7 @@
                                 aspect-ratio="1"
                                 contain
                                 max-height="260px"
-                                src="/img/img/team-training-pos.svg"
+                                src="@/assets/team-training-pos.svg"
                         ></v-img>
                     </v-flex>
                     <v-flex md6 pb-5 xs12>
@@ -86,7 +86,7 @@
                                 aspect-ratio="1"
                                 contain
                                 max-height="260px"
-                                src="/img/img/consultation4.svg"
+                                src="@/assets/consultation4.svg"
                         ></v-img>
                     </v-flex>
                     <v-flex md6 pb-5 xs12>
@@ -108,7 +108,7 @@
                                 aspect-ratio="1"
                                 contain
                                 max-height="260px"
-                                src="/img/img/mock-training.svg"
+                                src="@/assets/mock-training.svg"
                         ></v-img>
                     </v-flex>
                     <v-flex md6 pb-5 xs12>
@@ -132,7 +132,7 @@
                                 aspect-ratio="1"
                                 contain
                                 max-height="260px"
-                                src="/img/img/marketing-pos-cloud.svg"
+                                src="@/assets/marketing-pos-cloud.svg"
                         ></v-img>
                     </v-flex>
                     <v-flex md6 pb-5 xs12>
@@ -153,7 +153,7 @@
                                 aspect-ratio="1"
                                 contain
                                 max-height="260px"
-                                src="/img/img/consultation8.svg"
+                                src="@/assets/consultation8.svg"
                         ></v-img>
                     </v-flex>
                     <v-flex md6 pb-5 xs12>
@@ -192,7 +192,7 @@
     mounted() {
       window.scrollTo(0, 0);
     },
-    name: "RestaurantMarketing.vue"
+    name: "RestaurantHow2.vue"
   };
 </script>
 

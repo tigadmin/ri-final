@@ -80,7 +80,7 @@
                         <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="img/restaurant/restaurant-mobile-apps-ri.jpg"
+                                src="@/assets/restaurant-mobile-apps-ri.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -99,7 +99,7 @@
                         <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="img/restaurant/restaurant-send-promotional-offers.jpg"
+                                src="@/assets/restaurant-send-promotional-offers.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -118,7 +118,7 @@
                         <v-img
                                 alt="Digital Marketing Tools"
                                 contain
-                                src="img/restaurant/email-marketing-restaurant-local.jpg"
+                                src="@/assets/email-marketing-restaurant-local.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -137,7 +137,7 @@
                         <v-img
                                 alt="Mobile Apps POS"
                                 contain
-                                src="img/restaurant/loyalty-pos-apps.jpg"
+                                src="@/assets/loyalty-pos-apps.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -154,7 +154,7 @@
                         <v-img
                                 alt="Website POS"
                                 contain
-                                src="img/restaurant/restaurant-loyalty-program.jpg"
+                                src="@/assets/restaurant-loyalty-program.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -173,7 +173,7 @@
                         <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="img/restaurant/mobile-pos-apps.jpg"
+                                src="@/assets/mobile-pos-apps.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -192,7 +192,7 @@
                         <v-img
                                 alt="Mobile Apps POS"
                                 contain
-                                src="img/restaurant/online-ordering-restaurant-web-design.jpg"
+                                src="@/assets/online-ordering-restaurant-web-design.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -212,7 +212,7 @@
                         <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="img/restaurant/online-ordering-terminal-restaurant.jpg"
+                                src="@/assets/online-ordering-terminal-restaurant.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -231,7 +231,7 @@
                         <v-img
                                 alt="Website POS"
                                 contain
-                                src="img/restaurant/restaurant-mobile-apps-ri.jpg"
+                                src="@/assets/restaurant-mobile-apps-ri.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -250,7 +250,7 @@
                         <v-img
                                 alt="Website POS"
                                 contain
-                                src="img/restaurant/order-history-restaurants.jpg"
+                                src="@/assets/order-history-restaurants.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -270,7 +270,7 @@
                         <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="img/restaurant/payment-processing-restaurant.jpg"
+                                src="@/assets/payment-processing-restaurant.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -289,7 +289,7 @@
                         <v-img
                                 alt="Mobile Apps POS"
                                 contain
-                                src="img/restaurant/delivery-restaurant.jpg"
+                                src="@/assets/delivery-restaurant.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -308,7 +308,7 @@
                                            <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="img/restaurant/restaurant-menu-update-web.jpg"
+                                src="@/assets/restaurant-menu-update-web.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -328,7 +328,7 @@
                         <v-img
                                 alt="Website POS"
                                 contain
-                                src="img/restaurant/restaurant-analytics.jpg"
+                                src="@/assets/restaurant-analytics.jpg"
                         >
                         </v-img>
                         <v-card-title class="justify-center"
@@ -347,7 +347,7 @@ transparent">
                         <v-img
                                 alt="Restaurant Branding"
                                 contain
-                                src="img/restaurant/menu-upates-restaurant.jpg"
+                                src="@/assets/menu-upates-restaurant.jpg"
                         ></v-img>
                         <v-card-title class="justify-center"
                         >Multi-Unit Support

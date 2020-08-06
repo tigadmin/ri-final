@@ -26,7 +26,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/search-engine-marketing.jpg"
+                                    src="@/assets/search-engine-marketing.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Local Connect&trade;</v-card-title>
@@ -42,7 +42,7 @@
                                                <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/restaurant-image-social.jpg"
+                                    src="@/assets/restaurant-image-social.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -60,7 +60,7 @@
                         <v-img
                                     alt="Digital Marketing"
                                     contain
-                                    src="/img/restaurant/restaurant-image-mailer.jpg"
+                                    src="@/assets/restaurant-image-mailer.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Mail Connect&trade;</v-card-title>
@@ -71,9 +71,8 @@
                         </v-card>
                     </v-flex>
                     <v-flex md4 xs12>
-    <!--suppress HtmlUnknownTarget -->
                         <v-card>
-                            <v-img alt="Mobile Apps" contain src="/img/img/media-connect.jpg">
+                            <v-img alt="Mobile Apps" contain src="@/assets/media-connect.jpg">
                             </v-img>
                             <v-card-title class="headline">Media Connect&trade;</v-card-title>
                             <v-card-text class="subheading grey--text text--darken-1">
@@ -92,7 +91,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/local-citations.jpg"
+                                    src="@/assets/local-citations.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Ad Connect&trade;</v-card-title>
@@ -107,7 +106,7 @@
                             <v-img
                                     alt="Payment Solutions"
                                     contain
-                                    src="/img/restaurant/restaurant-suite-marketing.jpg"
+                                    src="@/assets/restaurant-suite-marketing.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"

@@ -4,7 +4,6 @@
             <v-layout align-center row wrap>
                 <v-flex xs12>
                     <v-card class="elevation-0">
-                        <!--suppress HtmlUnknownTag, HtmlUnknownTag -->
                         <v-card-content class="justify-center">
                             <iframe
                                     allowfullscreen
@@ -15,144 +14,18 @@
                             ></iframe>
                         </v-card-content>
                     </v-card>
-                    <v-card class="pa-lg-5 pt-5 pb-5">
+                    <v-card>
                         <v-card-text class="grey--text  text--darken-2 font-weight-light">
                             <v-list>
                                 <!--suppress HtmlUnknownTag, HtmlUnknownTag -->
                                 <v-list-tile-content class="ma-2"
-                                ><b>YUMAPOS USA Corporate</b></v-list-tile-content
-
-                                <!--suppress HtmlUnknownTag, HtmlUnknownTag -->
-                                                <v-list-tile-content class="ma-2"
-                                >1541-D Wade Hampton Blvd. Greenville, SC
-                                    29609
-                                </v-list-tile-content
-                                >
-<!--suppress HtmlUnknownTag, HtmlUnknownTag -->
+                                ><b>YUMAPOS USA Corporate</b></v-list-tile-content>
+                                <v-list-tile-content>1541-D Wade Hampton Blvd. Greenville, SC 29609</v-list-tile-content>
                                 <v-list-tile-content class="ma-2"
-                                ><b>(864) 990-1059</b></v-list-tile-content
+                                ><b>(803) 354-2363</b></v-list-tile-content
                                 >
                             </v-list>
                         </v-card-text>
-                        <v-card-text class="grey--text  text--darken-2 font-weight-light">
-                            Please select an option below:
-                        </v-card-text>
-
-                        <!--suppress HtmlUnknownTag, HtmlUnknownTag -->
-                        <v-card-content class="justify-center">
-                            <div class="my-2">
-                                <router-link to="/consult">
-                                    <v-btn class="ma-2" color="primary" depressed large
-                                    >I Want To Schedule A Consultation
-                                    </v-btn
-                                    >
-                                </router-link
-                                >
-                                <router-link to="/help">
-                                    <v-btn class="ma-2" color="primary" depressed large
-                                    >I Need Support
-                                    </v-btn
-                                    >
-                                </router-link
-                                >
-                                <router-link to="/partner">
-                                    <v-btn class="ma-2" color="primary" depressed large
-                                    >I Want To Become A Partner
-                                    </v-btn
-                                    >
-                                </router-link>
-                            </div>
-                            <!--<v-form
-                                        ref="form"
-                                        v-model="valid"
-                                        lazy-validation
-                                        role="form"
-                                        method="post"
-                                        action="https://oversearch.org/index.php/form/submit?formId=5"
-                                        id="mauticform_wrapper_yumaposcontactus"
-                                        data-mautic-form="yumaposcontactus"
-                                        enctype="multipart/form-data"
-                                        autocomplete="false"
-                                >
-                                    <div class="mauticform-message" id="mauticform_yumaposcontactus_message"></div>
-                                    <v-text-field
-                                            v-model="name"
-                                            :counter="10"
-                                            :rules="nameRules"
-                                            label="First Name"
-                                            id="mauticform_input_yumaposcontactus_first_name"
-                                            for="mauticform_input_yumaposcontactus_first_name"
-                                            name="mauticform[first_name]"
-                                            value=""
-                                            type="text"
-                                            required
-                                    ></v-text-field>
-                                    <v-text-field
-                                            v-model="lname"
-                                            :counter="10"
-                                            :rules="lnameRules"
-                                            label="Last Name"
-                                            id=" mauticform_input_yumaposcontactus_last_name"
-                                            for="mauticform_input_yumaposcontactus_last_name"
-                                            name="mauticform[last_name]"
-                                            value=""
-                                            type="text"
-                                            required
-                                    ></v-text-field>
-                                    <v-text-field
-                                            v-model="company"
-                                            :counter="10"
-                                            :rules="companyRules"
-                                            label="Company"
-                                            id=" mauticform_input_yumaposcontactus_company"
-                                            for=" mauticform_input_yumaposcontactus_company"
-                                            name="mauticform[company]"
-                                            value=""
-                                            type="text"
-                                            required
-                                    ></v-text-field>
-                                    <v-text-field
-                                            v-model="phone"
-                                            id="mauticform_input_yumaposcontactus_phone"
-                                            for="mauticform_input_yumaposcontactus_phone"
-                                            name="mauticform[phone]"
-                                            value=""
-                                            class="mauticform-input"
-                                            type="tel"
-                                            :counter="10"
-                                            :rules="phoneRules"
-                                            label="Phone"
-                                            data-validate="phone"
-                                            data-validation-type="tel"
-                                    ></v-text-field>
-
-                                    <v-text-field
-                                            v-model="email"
-                                            :rules="emailRules"
-                                            label="Email"
-                                            id="mauticform_input_yumaposcontactus_email"
-                                            for="mauticform_input_yumaposcontactus_email"
-                                            name="mauticform[email]"
-                                            type="email"
-                                            value=""
-                                            required
-                                    ></v-text-field>
-
-                                    <v-btn
-                                            :disabled="!valid"
-                                            color="success"
-                                            @click="validate"
-                                            type="submit"
-                                            name="mauticform[submit]"
-                                            id="mauticform_input_yumaposcontactus_submit"
-                                    >
-                                        Submit
-                                    </v-btn>
-                                    <input type="hidden" name="mauticform[formId]" id="mauticform_yumaposcontactus_id" value="5">
-                                    <input type="hidden" name="mauticform[return]" id="mauticform_yumaposcontactus_return" value="">
-                                    <input type="hidden" name="mauticform[formName]" id="mauticform_yumaposcontactus_name" value="yumaposcontactus">
-                                </v-form>-->
-                        </v-card-content>
                     </v-card>
                 </v-flex>
             </v-layout>
@@ -234,5 +107,58 @@
                     </v-btn>
                   </v-form>-->
 </template>
+
+<script>
+    export default {
+        name: "SupportForm",
+        data: () => ({
+            valid: true,
+            name: "",
+            nameRules: [
+                v => !!v || "Full name is required",
+                v => (v && v.length >= 1) || "Name must be more than 1 characters"
+            ],
+            lname: "",
+            lnameRules: [
+                v => !!v || "Full name is required",
+                v => (v && v.length >= 1) || "Name must be more than 1 characters"
+            ],
+            company: "",
+            companyRules: [
+                v => !!v || "Full name is required",
+                v => (v && v.length >= 1) || "Name must be more than 1 characters"
+            ],
+            phone: "",
+            phoneRules: [
+                v => !!v || "Phone is required",
+                v => (v && v.length <= 12) || "Name must be less than 12 characters"
+            ],
+            email: "",
+            emailRules: [
+                v => !!v || "E-mail is required",
+                v => /.+@.+/.test(v) || "E-mail must be valid"
+            ],
+            time: "",
+            timeRules: [
+                v => !!v || "Time to call is required",
+                v => (v && v.length <= 10) || "Time must be completed"
+            ]
+        }),
+
+        methods: {
+            validate() {
+                if (this.$refs.form.validate()) {
+                    this.snackbar = true;
+                }
+            },
+            reset() {
+                this.$refs.form.reset();
+            },
+            resetValidation() {
+                this.$refs.form.resetValidation();
+            }
+        }
+    };
+</script>
 
 <style scoped></style>

@@ -27,7 +27,7 @@
                             <v-img
                                     alt="Mobile Apps"
                                     contain
-                                    src="/img/restaurant/restaurant-mobile-apps-ri.jpg"
+                                    src="@/assets/restaurant-mobile-apps-ri.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Mobile Apps</v-card-title>
@@ -46,7 +46,7 @@
                             <v-img
                                     alt="Mobile Apps POS"
                                     contain
-                                    src="/img/restaurant/fb-web-apps.jpg"
+                                    src="@/assets/fb-web-apps.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Web Apps</v-card-title>
@@ -62,7 +62,7 @@
                             <v-img
                                     alt="Mobile Apps POS"
                                     contain
-                                    src="/img/restaurant/online-ordering-restaurant-web-design.jpg"
+                                    src="@/assets/online-ordering-restaurant-web-design.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Online Orders</v-card-title>
@@ -79,7 +79,7 @@
                             <v-img
                                     alt="Digital Marketing Tools"
                                     contain
-                                    src="/img/restaurant/mobile-restaurant-delivery.jpg"
+                                    src="@/assets/mobile-restaurant-delivery.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Takeout & Delivery</v-card-title>
@@ -95,7 +95,7 @@
                             <v-img
                                     alt="Website POS"
                                     contain
-                                    src="/img/restaurant/online-ordering-terminal-restaurant.jpg"
+                                    src="@/assets/online-ordering-terminal-restaurant.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Touchless Payments</v-card-title>
@@ -111,7 +111,7 @@
                             <v-img
                                     alt="Website POS"
                                     contain
-                                    src="/img/restaurant/mobile-pos-apps.jpg"
+                                    src="@/assets/mobile-pos-apps.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Loyalty & Gift Cards</v-card-title>

@@ -1,45 +1,5 @@
 <template>
   <v-app>
-    <v-app-bar app color="primary" dark>
-      <div class="d-flex align-center">
-        <v-img
-          alt="Vuetify Logo"
-          class="shrink mr-2"
-          contain
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-logo-dark.png"
-          transition="scale-transition"
-          width="40"
-        />
-
-        <v-img
-          alt="Vuetify Name"
-          class="shrink mt-1 hidden-sm-and-down"
-          contain
-          min-width="100"
-          src="https://cdn.vuetifyjs.com/images/logos/vuetify-name-dark.png"
-          width="100"
-        />
-      </div>
-
-      <v-spacer></v-spacer>
-
-      <v-btn
-        href="https://github.com/vuetifyjs/vuetify/releases/latest"
-        target="_blank"
-        text
-      >
-        <span class="mr-2">Latest Release</span>
-        <v-icon>open_in_new</v-icon>
-      </v-btn>
-    </v-app-bar>
-
-    <v-main>
-      <router-view></router-view>
-    </v-main>
-  </v-app>
-</template>
-
-<template>
   <v-app id="App" light>
     <v-navigation-drawer
             :floating="primaryDrawer.floating"
@@ -117,20 +77,14 @@
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-sm-and-down">
         <v-btn exact router to="/">Home</v-btn>
-        <v-btn exact router to="/restaurant-marketing"
-        >Restaurant Marketing
-        </v-btn>
         <v-btn exact router to="/restaurant-mobile-web-apps"
         >Restaurant Suite&trade;
-        </v-btn
-        >
-        <!--<v-btn  router
-               to='/online-ordering'
-               exact>Ordering</v-btn>-->
+        </v-btn>
+        <v-btn exact router to="/restaurant-marketing">Marketing
+        </v-btn>
         <v-btn exact router to="/how-it-works">How It Works</v-btn>
-        <v-btn exact router to="/faq-corona-19-restaurants">FAQ's</v-btn>
-        <v-btn exact router to="/restaurant-marketing-pricing">Pricing</v-btn>
-        <v-btn exact router to="/contact-restaurant-image">Support</v-btn>
+        <v-btn exact router to="/restaurant-faq">FAQ's</v-btn>
+        <v-btn exact router to="/restaurant-pricing">Pricing</v-btn>
         <v-btn color="primary" exact router to="/get-started">SIGNUP</v-btn>
       </v-toolbar-items>
     </v-app-bar>
@@ -139,7 +93,7 @@
     </v-main>
     <v-footer :inset="footer.inset" app dense>
       <span class="px-4 flex caption font-weight-light"
-      >&copy; {{ new Date().getFullYear() }} YUMAPOS Inc. | (864) 990-1059
+      >&copy; {{ new Date().getFullYear() }} Restaurant Image Inc. | (864) 990-1059
         <router-link to="/privacy"> Privacy</router-link>|<router-link
                 to="/license"
         >
@@ -163,16 +117,13 @@
       </v-col>-->
     </v-footer>
   </v-app>
+  </v-app>
 </template>
 
 <script>
-import HelloWorld from "./components/HelloWorld";
-
 export default {
   name: "App",
-
   components: {
-    HelloWorld
   },
 
   data: () => ({
@@ -195,14 +146,9 @@ export default {
         to: "/how-it-works"
       },
       {
-        icon: "live_help",
-        title: "Faq's",
-        to: "/faq-corona-19-restaurants"
-      },
-      {
         icon: "loyalty",
         title: "Pricing",
-        to: "/restaurant-marketing-pricing"
+        to: "/restaurant-pricing"
       },
       {
         icon: "login",
@@ -214,7 +160,7 @@ export default {
       {
         icon: "group_add",
         title: "24/7 Support",
-        to: "/contact-restaurant-image"
+        to: "/ticket"
       },
       { icon: "library_books", title: "Video Series", to: "/videos" },
       { icon: "vpn_lock", title: "Insider Access", to: "/insiders" },

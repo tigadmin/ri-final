@@ -34,7 +34,7 @@
                                 >
                             </v-list>
                         </v-card-text>
-                        <!--suppress HtmlUnknownTag, HtmlUnknownTag -->
+                        v-card>
                         <v-card-content class="justify-center">
                             <v-form
                                     action="https://jasonnetstudiosinccom.od2.vtiger.com/modules/Webforms/capture.php"

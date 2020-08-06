@@ -4,14 +4,7 @@
             <v-layout align-center row wrap>
                 <v-flex xs12>
                     <div class="text-xs-center ma-5 pt-5 pb-5">
-                        <div class="flex display-1 font-weight-light pb-3">YUMAPOS USA</div>
-                        <div class="flex subheading font-weight-light">
-                            Give us a call at (864) 990-1059 or complete the form below if you
-                            have any questions or concerns.
-                            <router-link to="/meeting">Schedule Meeting</router-link>
-                            or
-                            <router-link to="/ticket">Submit Support Ticket</router-link>
-                        </div>
+                        <div class="flex display-1 font-weight-light pb-3">Restaurant Image</div>
                     </div>
                 </v-flex>
             </v-layout>

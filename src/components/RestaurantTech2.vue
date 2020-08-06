@@ -25,7 +25,7 @@
                             <v-img
                                     alt="Payment Solutions"
                                     contain
-                                    src="/img/restaurant/pos-dashboard-business.jpg"
+                                    src="@/assets/pos-dashboard-business.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Restaurant Dashboard</v-card-title>
@@ -41,7 +41,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/restaurant-dashboard.jpg"
+                                    src="@/assets/restaurant-dashboard.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Sales Reports & Data</v-card-title>
@@ -57,7 +57,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/reports-pos-best.jpg"
+                                    src="@/assets/reports-pos-best.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -76,7 +76,7 @@
                             <v-img
                                     alt="Digital Marketing"
                                     contain
-                                    src="/img/restaurant/email-marketing-restaurant-local.jpg"
+                                    src="@/assets/email-marketing-restaurant-local.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -95,7 +95,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/restaurant-mobile-apps-ri.jpg"
+                                    src="@/assets/restaurant-mobile-apps-ri.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -114,7 +114,7 @@
                             <v-img
                                     alt="Mobile Apps"
                                     contain
-                                    src="/img/restaurant/restaurant-send-promotional-offers.jpg"
+                                    src="@/assets/restaurant-send-promotional-offers.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -135,7 +135,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/loyalty-pos-apps.jpg"
+                                    src="@/assets/loyalty-pos-apps.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -154,7 +154,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/restaurant-loyalty-program.jpg"
+                                    src="@/assets/restaurant-loyalty-program.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Digital Gift Cards</v-card-title>
@@ -170,7 +170,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/mobile-pos-apps.jpg"
+                                    src="@/assets/mobile-pos-apps.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -188,7 +188,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/online-ordering-restaurant-web-design.jpg"
+                                    src="@/assets/online-ordering-restaurant-web-design.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -206,7 +206,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/online-ordering-terminal-restaurant.jpg"
+                                    src="@/assets/online-ordering-terminal-restaurant.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -224,7 +224,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/restaurant-mobile-apps-ri.jpg"
+                                    src="@/assets/restaurant-mobile-apps-ri.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -243,7 +243,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/order-history-restaurants.jpg"
+                                    src="@/assets/order-history-restaurants.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -262,7 +262,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/payment-processing-restaurant.jpg"
+                                    src="@/assets/payment-processing-restaurant.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -281,7 +281,7 @@
                         <v-img
                                 alt="digital strategies"
                                 contain
-                                src="/img/restaurant/delivery-restaurant.jpg"
+                                src="@/assets/delivery-restaurant.jpg"
                         >
                         </v-img>
                         <v-card-title class="headline"
@@ -299,7 +299,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/restaurant-menu-update-web.jpg"
+                                    src="@/assets/restaurant-menu-update-web.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -318,7 +318,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/restaurant-analytics.jpg"
+                                    src="@/assets/restaurant-analytics.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline"
@@ -338,7 +338,7 @@
                             <v-img
                                     alt="digital strategies"
                                     contain
-                                    src="/img/restaurant/menu-upates-restaurant.jpg"
+                                    src="@/assets/menu-upates-restaurant.jpg"
                             >
                             </v-img>
                             <v-card-title class="headline">Multi-Unit Support</v-card-title>
@@ -376,7 +376,7 @@
 
 <script>
   export default {
-    name: "RestaurantPos1.vue"
+    name: "RestaurantTech2"
   };
 </script>
 

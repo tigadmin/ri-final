@@ -1,6 +1,6 @@
 <template>
     <!--suppress HtmlUnknownTarget -->
-    <v-parallax contain dark src="/img/img/pricing-pos.jpg">
+    <v-parallax contain dark src="@/assets/pricing-pos.jpg">
         <v-row justify="center">
             <v-col class="text-center" cols="12">
                 <h1 class="display-2 pb-5 font-weight-thin">Restaurant Insiders</h1>
