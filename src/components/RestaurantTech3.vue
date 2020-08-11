@@ -94,19 +94,24 @@
                     </v-flex>
                 </div>
             </v-container>
-            <div class="text-xs-center">
-                <v-container grid-list-md light text-xs-center>
-                    <v-layout align-center column justify-center>
-                        <div class="mt-2">
-                            <img
-                                    alt="Restaurant POS Review"
-                                    height="600px"
-                                    src="@/assets/info-graphic-icons.png"
-                            />
-                        </div>
-                    </v-layout>
-                </v-container>
-            </div>
+            <v-container grid-list-md light text-xs-center>
+                <v-layout align-center row wrap>
+                    <v-flex xs12>
+                        <v-row justify="center">
+                            <v-card class="elevation-0 transparent ma-5">
+                                <v-img
+                                        alt="Restaurant Marketing Online Ordering"
+                                        src="@/assets/info-graphic-icons.png"
+                                        contain
+                                        max-width="300px"
+                                >
+
+                                </v-img>
+                            </v-card>
+                        </v-row>
+                    </v-flex>
+                </v-layout>
+            </v-container>
         </v-flex>
     </section>
 </template>

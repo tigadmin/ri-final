@@ -71,7 +71,7 @@
                     </v-layout>
                     <v-layout align-center column justify-center>
                         <div class="text-xs-center pb-5 pt-5">
-                            <router-link to="/self">
+                            <router-link to="/get-started">
                                 <v-btn
                                         @click.stop="dialog = !dialog"
                                         aria-label="Website Pricing"
@@ -79,19 +79,7 @@
                                         dark
                                         round
                                 >
-                                    SELF SERVE SIGNUP
-                                </v-btn>
-                            </router-link>
-                                <router-link to="/full">
-                                <v-btn
-                                        class="ma-5"
-                                        @click.stop="dialog = !dialog"
-                                        aria-label="Website Pricing"
-                                        color="primary"
-                                        dark
-                                        round
-                                >
-                                    FULL SERVE SIGNUP
+                                    CREATE YOUR ACCOUNT
                                 </v-btn>
                             </router-link>
                         </div>
