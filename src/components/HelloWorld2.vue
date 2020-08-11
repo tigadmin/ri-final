@@ -94,7 +94,7 @@
                                     src="@/assets/local-citations.jpg"
                             >
                             </v-img>
-                            <v-card-title class="headline">Ad Connect&trade;</v-card-title>
+                            <v-card-title class="headline">Citation Connect&trade;</v-card-title>
                             <v-card-text class="subheading grey--text text--darken-1">
                                 When someone in your local area searches for your restaurant or
                                 a restaurant like yours, your Local Ad is displayed prominently.

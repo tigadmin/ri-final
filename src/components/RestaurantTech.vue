@@ -134,7 +134,7 @@
                                                 dark
                                                 rounded
                                         >
-                                            LEARN MORE ABOUT2 Restaurant Suite™
+                                            LEARN MORE ABOUT Restaurant Suite™
                                         </v-btn>
                                     </router-link>
                                 </div>

@@ -88,6 +88,19 @@ const routes = [
     }
   },
   {
+    path: "/self",
+    target: "_blank",
+    beforeEnter() {
+      location.href = "https://share.hsforms.com/1DiyahRxJQ66WoWSxhPuVAw42zg1";
+    }
+  },  {
+    path: "/full",
+    target: "_blank",
+    beforeEnter() {
+      location.href = "https://share.hsforms.com/1vTyseTVYQby63GDmriL_fQ42zg1";
+    }
+  },
+  {
     path: "/videos",
     target: "_blank",
     beforeEnter() {

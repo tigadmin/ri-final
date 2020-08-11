@@ -1,11 +1,15 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e62c96c51ed6f5a5d00a",
+    "revision": "c9f3c68da45dc5e69f05",
     "url": "/css/about.fb9568df.css"
   },
   {
     "revision": "d0239614595a8d949d50",
     "url": "/css/chunk-vendors.6aaa0a9a.css"
+  },
+  {
+    "revision": "830304a2e02991b5f9c406a25a710ed2",
+    "url": "/img/apps-mobile-online-ordering-restaurant-22.830304a2.jpg"
   },
   {
     "revision": "ee8bfa93debf09353b3029b7828e5ae8",
@@ -224,16 +228,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/yumapos-restaurant2.57f78d71.jpg"
   },
   {
-    "revision": "91fdbc853f782b9bf8ee6e5072f06fe7",
+    "revision": "1b44e466c03b0b00a2fbd067c81d3514",
     "url": "/index.html"
   },
   {
-    "revision": "e62c96c51ed6f5a5d00a",
-    "url": "/js/about.4e9dfc8d.js"
+    "revision": "c9f3c68da45dc5e69f05",
+    "url": "/js/about.4452d779.js"
   },
   {
-    "revision": "446981c71c4da6560d09",
-    "url": "/js/app.5ed0b2d1.js"
+    "revision": "73d2c5a5daa7298c2666",
+    "url": "/js/app.c3546c75.js"
   },
   {
     "revision": "d0239614595a8d949d50",
