@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.9b68ecffd6e22142f37c92eb655b8635.js"
+  "/precache-manifest.7bdbb68e00c342056cf73374f0cd9e7e.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "ri"});
+workbox.core.setCacheNameDetails({prefix: "www.restaurantimage.com"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
