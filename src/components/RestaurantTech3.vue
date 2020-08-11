@@ -78,7 +78,7 @@
                         <v-container grid-list-xl>
                             <v-layout align-center column justify-center>
                                 <div class="text-xs-center pb-5 pt-5">
-                                    <router-link to="/restaurant-marketing-pricing">
+                                    <router-link to="/restaurant-pricing">
                                         <v-btn
                                                 aria-label="Website Pricing"
                                                 color="primary"
@@ -118,7 +118,7 @@
 
 <script>
   export default {
-    name: "RestaurantPos1.vue"
+    name: "RestaurantTech3.vue"
   };
 </script>
 
