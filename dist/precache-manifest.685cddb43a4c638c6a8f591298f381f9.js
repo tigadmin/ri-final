@@ -228,7 +228,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/yumapos-restaurant2.57f78d71.jpg"
   },
   {
-    "revision": "c908338215cc3abda43b5e8cda30e682",
+    "revision": "9e9c94fba070abc8760576c5a9b8ff43",
     "url": "/index.html"
   },
   {
