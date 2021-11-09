@@ -1,12 +1,12 @@
 <template>
   <div class="home">
-    <HelloWorld/>
-    <HelloTop/>
-    <HelloTop2/>
-    <HelloWorld1/>
-    <Clients/>
-    <RestaurantPos3/>
-    <HelloBot2/>
+    <HelloWorld />
+    <HelloTop />
+    <HelloTop2 />
+    <HelloWorld1 />
+    <Clients />
+    <RestaurantPos3 />
+    <HelloBot2 />
   </div>
 </template>
 
@@ -30,7 +30,7 @@ export default {
     HelloTop,
     HelloTop2,
     HelloBot2,
-    RestaurantPos3,
+    RestaurantPos3
   }
 };
 </script>

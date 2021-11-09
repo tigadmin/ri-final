@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5040b15edd6a212ee95a",
-    "url": "/css/about.fb9568df.css"
+    "revision": "b9127c53708baecc3239",
+    "url": "/css/about.f5fc010c.css"
   },
   {
-    "revision": "d0239614595a8d949d50",
-    "url": "/css/chunk-vendors.6aaa0a9a.css"
+    "revision": "7867bc633465131b6ec4",
+    "url": "/css/chunk-vendors.979770f3.css"
   },
   {
     "revision": "830304a2e02991b5f9c406a25a710ed2",
@@ -228,20 +228,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/yumapos-restaurant2.57f78d71.jpg"
   },
   {
-    "revision": "e28972526c2e9a8b8108fe9bf2a1a389",
+    "revision": "5709989394e9516e68499ba3439c3fff",
     "url": "/index.html"
   },
   {
-    "revision": "5040b15edd6a212ee95a",
-    "url": "/js/about.ffaaa0c8.js"
+    "revision": "b9127c53708baecc3239",
+    "url": "/js/about.7dc5c71d.js"
   },
   {
-    "revision": "0010a46ad7218d1d3057",
-    "url": "/js/app.a3ba3ebe.js"
+    "revision": "8c94c8874d51f8f081a9",
+    "url": "/js/app.5dceeb97.js"
   },
   {
-    "revision": "d0239614595a8d949d50",
-    "url": "/js/chunk-vendors.3ac71053.js"
+    "revision": "7867bc633465131b6ec4",
+    "url": "/js/chunk-vendors.f81cb010.js"
   },
   {
     "revision": "9a9bd3c19752a2dcb36c504220162be1",

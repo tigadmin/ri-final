@@ -17,7 +17,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/RestaurantMarketing.vue"),
+      import(/* webpackChunkName: "about" */ "../views/RestaurantMarketing.vue")
   },
   {
     path: "/restaurant-mobile-web-apps",
@@ -26,7 +26,9 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Restaurant-Mobile-Web-Apps.vue"),
+      import(
+        /* webpackChunkName: "about" */ "../views/Restaurant-Mobile-Web-Apps.vue"
+      )
   },
   {
     path: "/restaurant-faq",
@@ -34,8 +36,7 @@ const routes = [
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Faq.vue"),
+    component: () => import(/* webpackChunkName: "about" */ "../views/Faq.vue")
   },
   {
     path: "/restaurant-support",
@@ -44,7 +45,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Support.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Support.vue")
   },
   {
     path: "/restaurant-pricing",
@@ -53,7 +54,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Restaurant-Pricing.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Restaurant-Pricing.vue")
   },
   {
     path: "/how-it-works",
@@ -62,7 +63,7 @@ const routes = [
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
     component: () =>
-        import(/* webpackChunkName: "about" */ "../views/Restaurant-How.vue"),
+      import(/* webpackChunkName: "about" */ "../views/Restaurant-How.vue")
   },
   {
     path: "/get-started",
@@ -93,7 +94,8 @@ const routes = [
     beforeEnter() {
       location.href = "https://share.hsforms.com/1DiyahRxJQ66WoWSxhPuVAw42zg1";
     }
-  },  {
+  },
+  {
     path: "/full",
     target: "_blank",
     beforeEnter() {
@@ -130,7 +132,7 @@ const routes = [
     target: "_blank",
     beforeEnter() {
       location.href =
-          "https://www.yumapos.com/restaurant-pos/software-licensing/";
+        "https://www.yumapos.com/restaurant-pos/software-licensing/";
     }
   },
   {
@@ -166,7 +168,7 @@ const routes = [
     target: "_blank",
     beforeEnter() {
       location.href =
-          "https://meetings.hubspot.com/jason97?_ga=2.202697877.580962950.1593951101-228482065.1591022274";
+        "https://meetings.hubspot.com/jason97?_ga=2.202697877.580962950.1593951101-228482065.1591022274";
     }
   },
   {
@@ -174,7 +176,7 @@ const routes = [
     target: "_blank",
     beforeEnter() {
       location.href =
-          "https://indd.adobe.com/view/ed30c5bd-e43b-4b90-906e-67ce39610d38";
+        "https://indd.adobe.com/view/ed30c5bd-e43b-4b90-906e-67ce39610d38";
     }
   },
   {
