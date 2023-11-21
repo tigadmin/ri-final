@@ -71,35 +71,44 @@ const routes = [
     name: "startri",
     meta: { requiresAuth: true },
     beforeEnter() {
-      location.href = "https://share.hsforms.com/1JCrzZ9qrSJC_Sjaayt5_rw42zg1";
+      location.href = "https://calendly.com/netstudios/netsitesonline";
+    }
+  },
+  {
+    path: "/get-started2",
+    target: "_blank",
+    name: "startri",
+    meta: { requiresAuth: true },
+    beforeEnter() {
+      location.href = "https://calendly.com/netstudios/netsitesonline";
     }
   },
   {
     path: "/ticket",
     target: "_blank",
     beforeEnter() {
-      location.href = "https://share.hsforms.com/14WIo9mp9QcCNCCU-8eXZag42zg1";
+      location.href = "/restaurant-mobile-web-apps";
     }
   },
   {
     path: "/greenville-sc-italian-restaurant",
     target: "_blank",
     beforeEnter() {
-      location.href = "https://www.briosopasta.com";
+      location.href = "#";
     }
   },
   {
     path: "/self",
     target: "_blank",
     beforeEnter() {
-      location.href = "https://share.hsforms.com/1DiyahRxJQ66WoWSxhPuVAw42zg1";
+      location.href = "https://calendly.com/netstudios/netsitesonline";
     }
   },
   {
     path: "/full",
     target: "_blank",
     beforeEnter() {
-      location.href = "https://share.hsforms.com/1vTyseTVYQby63GDmriL_fQ42zg1";
+      location.href = "https://calendly.com/netstudios/netsitesonline";
     }
   },
   {
@@ -124,7 +133,7 @@ const routes = [
     name: "startri",
     meta: { requiresAuth: true },
     beforeEnter() {
-      location.href = "https://share.hsforms.com/1JCrzZ9qrSJC_Sjaayt5_rw42zg1";
+      location.href = "https://calendly.com/netstudios/netsitesonline";
     }
   },
   {
@@ -153,14 +162,14 @@ const routes = [
     path: "/ticket",
     target: "_blank",
     beforeEnter() {
-      location.href = "https://share.hsforms.com/14WIo9mp9QcCNCCU-8eXZag42zg1";
+      location.href = "https://calendly.com/netstudios/netsitesonline";
     }
   },
   {
     path: "/ticket",
     target: "_blank",
     beforeEnter() {
-      location.href = "https://share.hsforms.com/14WIo9mp9QcCNCCU-8eXZag42zg1";
+      location.href = "https://calendly.com/netstudios/netsitesonline";
     }
   },
   {
@@ -168,7 +177,7 @@ const routes = [
     target: "_blank",
     beforeEnter() {
       location.href =
-        "https://meetings.hubspot.com/jason97?_ga=2.202697877.580962950.1593951101-228482065.1591022274";
+        "https://calendly.com/netstudios/netsitesonline";
     }
   },
   {

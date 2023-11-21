@@ -8,10 +8,7 @@
               Restaurant Suite™ Everything You Need For Success
             </div>
             <div class="flex subheading font-weight-light">
-              An all-inclusive restaurant marketing platform that includes
-              multi-unit support, web & mobile apps, online ordering, push
-              notifications, SMS messaging, email marketing, customer
-              management, loyalty, gift cards, and more.
+              Introducing a new powerful restaurant marketing platform developed by a team of world-class software engineers, designed by a veteran team of marketers and restaurant consultants.
             </div>
           </v-col>
         </v-row>

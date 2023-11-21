@@ -31,7 +31,7 @@
         </div>
 
         <p class="font-weight-regular text--grey darken-1">
-          Call Now | (864) 990-1059
+          Call Now | (864) 508-7140
         </p>
       </v-col>
     </v-row>

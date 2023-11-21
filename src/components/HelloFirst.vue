@@ -32,7 +32,7 @@
         </div>
 
         <p class="font-weight-regular text--grey darken-1">
-          24/7 Support | (803) 354-2363
+          24/7 Support | (864) 508-7140
         </p>
       </v-col>
     </v-row>

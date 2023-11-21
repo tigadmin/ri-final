@@ -31,7 +31,7 @@
         </div>
 
         <p class="font-weight-regular text--grey darken-1">
-          Call Now | (803) 354-2363
+          Call Now | (864) 508-7140
         </p>
       </v-col>
     </v-row>

@@ -5,16 +5,10 @@
         <v-row justify="center">
           <v-col class="text-center pt-5 pb-5" cols="12">
             <div class="flex display-1 font-weight-light">
-              Get More Customers In Your Neighborhood
+              Grow Your Restaurant with Restaurant Image
             </div>
             <div class="flex subheading  font-weight-light">
-              Due to COVID-19, your company is most likely scrambling to figure
-              out how to survive. You may feel overwhelmed, but you’re in the
-              right place.<b
-                >We developed Restaurant Suite&trade;to solve this problem</b
-              >
-              - and we know first hand the dilemma many restaurants face and
-              more importantly the solution to the problem.
+              Elevate your restaurant's success with Restaurant Image—a complete ordering and marketing solution. Acquire more customers, enhance user experiences, and effortlessly manage takeout and delivery orders.
             </div>
           </v-col>
         </v-row>
@@ -34,7 +28,7 @@
               >
               </v-img>
               <v-card-title class="justify-center"
-                >Restaurant Suite&trade;
+                >Y2 Restaurant Suite&trade;
               </v-card-title>
               <v-card-text class="grey--text  text--darken-2 font-weight-light">
                 We developed one of the greatest transformation platforms for

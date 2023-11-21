@@ -5,13 +5,11 @@
         <v-row justify="center">
           <v-col class="text-center pt-5 pb-5" cols="12">
             <div class="flex display-1 font-weight-light">
-              Your Restaurant Seen Everywhere Online
+              Drive Customers From The Web To Your Restaurant
             </div>
             <div class="flex subheading font-weight-light">
-              We drive customers from the Web to your restaurant—whether your
-              restaurant has a Web site or not. We precisely target consumers
-              online who are located in your neighborhood, and connect customers
-              who are most likely to purchase.
+              An all-inclusive restaurant ordering & marketing platform that includes web & mobile apps, online ordering, push
+              notifications, SMS messaging, email marketing, customer management, loyalty, gift cards, multi-unit support, and more.
             </div>
           </v-col>
         </v-row>

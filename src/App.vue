@@ -16,7 +16,7 @@
               Restaurant Image
             </v-list-item-title>
             <v-list-item-subtitle>
-              Restaurant Marketing Platform
+              Restaurant Ordering & Marketing Platform
             </v-list-item-subtitle>
           </v-list-item-content>
         </v-list-item>
@@ -96,8 +96,7 @@
       </v-main>
       <v-footer :inset="footer.inset" app dense>
         <span class="px-4 flex caption font-weight-light"
-          >&copy; {{ new Date().getFullYear() }} Restaurant Image Inc. | (864)
-          990-1059
+          >&copy; {{ new Date().getFullYear() }} Net Studios Inc. | (864)508-7140
           <router-link to="/privacy"> Privacy</router-link>|<router-link
             to="/license"
           >
@@ -167,8 +166,8 @@ export default {
       },
       { icon: "library_books", title: "Video Series", to: "/videos" },
       { icon: "vpn_lock", title: "Insider Access", to: "/insiders" },
-      { icon: "phone", title: "(864) 990-1059", to: "/get-started" },
-      { icon: "email", title: "jason@restaurantimage.com", to: "/get-started" }
+      { icon: "phone", title: "(864) 508-7140", to: "/get-started" },
+      { icon: "email", title: "jason@netstudiosinc.com", to: "/get-started" }
     ],
     drawers: ["Default (no property)", "Permanent", "Temporary"],
     primaryDrawer: {

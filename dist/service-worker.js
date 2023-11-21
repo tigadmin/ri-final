@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.5f83aee01a21e25ea75c4ada8388bd60.js"
+  "/precache-manifest.8a7752276a1796311834ddca32bf9ed2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "restaurantimage.com"});
